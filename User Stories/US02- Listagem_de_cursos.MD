@@ -1,5 +1,6 @@
+=====================================================================================
 # US - 2: Listar Cursos Disponíveis
-
+=====================================================================================
 ## Funcionalidade: Visualizar Lista de Cursos
 
 **Como** usuário da aplicação Desafio de QA Beedoo  
@@ -28,7 +29,7 @@
 
 ### Contexto
 
-**Dado** que o usuário está autenticado na plataforma  
+**Dado** que o usuário está na plataforma   
 **Quando** o usuário navega para a página de lista de cursos  
 **E** há cursos cadastrados  
 **Então** os cursos são exibidos em formato de cards  

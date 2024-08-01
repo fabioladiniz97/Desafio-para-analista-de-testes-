@@ -1,5 +1,5 @@
-
-                                # 👨🏻‍👩🏻‍👦🏻‍👦🏻 User Stories
+=====================================================================================
+# 👨🏻‍👩🏻‍👦🏻‍👦🏻 User Stories
 =====================================================================================
 
 ## US - 1: Cadastrar Curso com Sucesso
@@ -24,7 +24,7 @@
      - Data de início
      - Data de fim
      - Número de vagas
-     - Tipo de curso (Presencial e Online)
+     - Tipo de curso (Presencial ou Online)
 
 3. **Validações dos Campos**
    - O campo "Nome do curso" deve aceitar até 50 caracteres.
@@ -46,12 +46,16 @@
 
 ### Contexto
 
-**Dado** que o instrutor está autenticado na plataforma  
-**Quando** o instrutor navega para a página de criação de curso  
+**Dado** que o usuário está na plataforma  
+**Quando** o usuário navega para a página de criação de curso  
 **E** preenche o nome do curso com "Curso de Teste"  
 **E** preenche a descrição do curso com "Descrição do Curso de Teste"  
-**E** seleciona a categoria "Tecnologia"  
-**E** clica no botão "Criar Curso"  
+**E** preenche o campo "Instrutor" com "Instrutor Teste"  
+**E** insere uma URL válida para a imagem de capa  
+**E** seleciona uma data de início e uma data de fim válidas para o curso  
+**E** define o número de vagas como 30  
+**E** escolhe o tipo de curso como "Online"  
+**E** clica no botão "Cadastrar curso"  
 **Então** o curso é salvo  
 **E** uma mensagem de confirmação "Curso criado com sucesso" é exibida  
 **E** o novo curso aparece na lista de cursos
