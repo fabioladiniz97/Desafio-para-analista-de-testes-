@@ -1,4 +1,4 @@
-### Cenários e Casos de Testes
+### Cenários e Casos de Testes informações
 
 **Relatório de Bugs:** Para acessar a planilha contendo o relatório de bugs, por favor, clique (#).
 
