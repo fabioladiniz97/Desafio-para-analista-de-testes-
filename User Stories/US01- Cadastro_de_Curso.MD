@@ -2,7 +2,7 @@
 # 👨🏻‍👩🏻‍👦🏻‍👦🏻 User Stories
 =====================================================================================
 
-## US - 1: Cadastrar Curso com Sucesso
+## US - 1: Cadastrar Curso 
 
 ### Funcionalidade: Cadastrar Curso
 

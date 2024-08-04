@@ -1,6 +1,8 @@
 =====================================================================================
-# US - 2: Listar Cursos Disponíveis
+# 👨🏻‍👩🏻‍👦🏻‍👦🏻 User Stories
 =====================================================================================
+# US - 2: Listar Cursos Disponíveis
+
 ## Funcionalidade: Visualizar Lista de Cursos
 
 **Como** usuário da aplicação Desafio de QA Beedoo  
