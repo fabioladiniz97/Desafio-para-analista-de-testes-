@@ -41,3 +41,4 @@
 - **Documentação Detalhada:** Fornecer documentação completa dos testes, incluindo casos de teste, resultados e logs, para facilitar a análise e resolução de problemas.
 - **Revisões de Código:** Participar de revisões de código para identificar e corrigir problemas antes da implementação.
 - **Testes de Regressão:** Conduzir testes de regressão para assegurar que novas alterações não introduzam novos bugs na aplicação.
+
